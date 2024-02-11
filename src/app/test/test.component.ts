@@ -8,5 +8,5 @@ import { Component } from '@angular/core';
   styleUrl: './test.component.scss'
 })
 export class TestComponent {
-
+  title = 'angular-unit-test';
 }
